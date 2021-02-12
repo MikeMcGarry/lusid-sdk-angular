@@ -1,4 +1,6 @@
 # LusidSdkAngular
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMikeMcGarry%2Flusid-sdk-angular.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMikeMcGarry%2Flusid-sdk-angular?ref=badge_shield)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
 
@@ -39,3 +41,7 @@ $ docker run --rm --name lusid-sdk-angular -v $(pwd):/usr/src -w /usr/src node:8
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMikeMcGarry%2Flusid-sdk-angular.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMikeMcGarry%2Flusid-sdk-angular?ref=badge_large)
